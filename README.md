@@ -10,7 +10,7 @@ Bienvenue dans l'application **Cinéphoria Mobile**, une solution mobile Flutter
     <img width=150 src="22.png">
 </div>
 
-<div style="display:flex; gap:100px;"> 
+<div style="display:flex; gap:50px;"> 
     <h4>Page Login</h4>
     <h4>Affichage des Reseravtions</h4>
     <h4>Qr Code Page</h4>

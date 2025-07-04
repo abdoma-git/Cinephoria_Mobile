@@ -2,6 +2,13 @@
 
 Bienvenue dans l'application **Cinéphoria Mobile**, une solution mobile Flutter connectée à une API PHP et une base de données MySQL. Cette application permet aux utilisateurs de se connecter, consulter leurs réservations de séances de cinéma et générer des QR codes pour accéder aux séances.
 
+## Simulation
+
+<img width=150 src="Screenshot_20250704_213147.png">
+<img width=150 src="Screenshot_20250704_213800.png">
+<img width=150 src="22.png">
+
+
 ---
 
 ## 📱 Fonctionnalités principales

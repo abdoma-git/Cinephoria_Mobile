@@ -12,9 +12,9 @@ Bienvenue dans l'application **Cinéphoria Mobile**, une solution mobile Flutter
 
 
 <div style="display:flex; gap:20px;"> 
-    <img width=150 src="Screenshot_20250704_213147.png">
-    <img width=150 src="Screenshot_20250704_213800.png">
-    <img width=150 src="22.png">
+    <img width=150 src="Capture c.png">
+    <img width=150 src="Capture a.png">
+    <img width=150 src="Capture b.png">
 </div>
 
 

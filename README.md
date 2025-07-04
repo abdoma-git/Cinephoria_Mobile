@@ -4,9 +4,18 @@ Bienvenue dans l'application **Cinéphoria Mobile**, une solution mobile Flutter
 
 ## Simulation
 
-<img width=150 src="Screenshot_20250704_213147.png">
-<img width=150 src="Screenshot_20250704_213800.png">
-<img width=150 src="22.png">
+<div style="display:flex; gap:20px;"> 
+    <img width=150 src="Screenshot_20250704_213147.png">
+    <img width=150 src="Screenshot_20250704_213800.png">
+    <img width=150 src="22.png">
+</div>
+
+<div style="display:flex; gap:100px;"> 
+    <h4>Page Login</h4>
+    <h4>Affichage des Reseravtions</h4>
+    <h4>Qr Code Page</h4>
+</div>
+
 
 
 ---
